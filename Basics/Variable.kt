@@ -1,3 +1,5 @@
+// val variable_name: Data_type = Initial value
+
 fun main() {
     val count: Int = 2
     val name: String = "Messi"
