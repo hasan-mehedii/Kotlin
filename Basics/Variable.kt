@@ -4,20 +4,20 @@
 
 fun main() {
     
-    // val count: Int = 2
-    // val name: String = "Messi"
-    // val salary: Double = 540.50
+    val count: Int = 2
+    val name: String = "Messi"
+    val salary: Double = 540.50
     
-    // val name = "Messi"
-    // val salary = 540.50
-    // var age = 90
+    val name = "Messi"
+    val salary = 540.50
+    var age = 90
     
-    // println(name + " Has a salary of "+ salary +"$")
-    // println("$name has a salary of $salary$")        //both will print same line
+    println(name + " Has a salary of "+ salary +"$")
+    println("$name has a salary of $salary$")        //both will print same line
 
-    // println(age)
-    // age = 100
-    // println(age)
+    println(age)
+    age = 100
+    println(age)
 
     val nextMeeting = "Next meeting: "
     val date = "January 1"
